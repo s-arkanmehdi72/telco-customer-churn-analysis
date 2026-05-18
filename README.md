@@ -2,7 +2,9 @@
 
 > End-to-end data analytics project predicting customer churn for a telecom company using Python and Power BI.
 
-![Dashboard Preview](Dashboard_Screenshot.png)
+![Dashboard Preview]![Uploading Dashboard_Screenshot.png…]()
+<img width="1895" height="816" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/ef095dda-dd44-4714-a263-198d81b560da" />
+
 
 ## 🎯 Project Overview
 
@@ -98,10 +100,10 @@ Open `Telco_Customer_Churn_Analysis.ipynb` in Google Colab or Jupyter Notebook
 
 ## 👤 About Me
 
-**[YOUR NAME]**  
-🎓 [Your College Name]  
-💼 LinkedIn: [linkedin.com/in/your-id](https://linkedin.com/in/your-id)  
-📧 Email: your.email@gmail.com
+**SAYYED ARKAN MEHDI**  
+🎓 VEERMATA JIJABAI TECHNOLOGICAL INSTITUTE
+💼 LinkedIn: [linkedin.com/in/arkan7mehdi](https://www.linkedin.com/in/arkan7mehdi/) 
+📧 Email: s.arkanmehdi786@gmail.com
 
 ---
 
