@@ -2,7 +2,7 @@
 
 > End-to-end data analytics project predicting customer churn for a telecom company using Python and Power BI.
 
-![Dashboard Preview]!
+![Dashboard Preview]!Dashboard_Screenshot.png
 <img width="1895" height="816" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/ef095dda-dd44-4714-a263-198d81b560da" />
 
 
