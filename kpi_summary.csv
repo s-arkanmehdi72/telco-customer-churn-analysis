@@ -1,0 +1,11 @@
+KPI,Value,Benchmark / Target,Status
+Total Customers,7043.0,N/A,ℹ️
+Churn Rate (%),26.54,15-25% (Industry),🚨 Above benchmark
+Retention Rate (%),73.46,> 85%,🟡 Below target
+Total Monthly Revenue ($),456116.6,N/A,✅
+Annual Revenue at Risk ($),1669570.2,< $500K,🚨 High
+Avg Tenure (months),32.4,> 36 months,🟡 Just below target
+ARPU ($),64.76,> $70,🟡 Just below target
+CLV ($),2096.41,"> $2,500",🟡 Below target
+CAC ($),300.0,< $250,🚨 Above target
+CLV:CAC Ratio,6.99,> 3.0,✅ Healthy

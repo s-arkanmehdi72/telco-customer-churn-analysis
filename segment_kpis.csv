@@ -1,0 +1,5 @@
+Segment,Customer_Count,Churn_Rate_Pct,Avg_Tenure_Months,ARPU,Total_Monthly_Revenue,CLV_per_Customer,Annual_Revenue_at_Risk,Pct_of_Total_Risk
+🌱 New / Standard,1857,27.95,8.59,38.23,70991.7,328.0,238106.0,14.8
+🏆 VIP / High-Value Loyal,2230,20.4,53.23,93.65,208834.4,4985.0,511227.0,31.7
+💎 Loyal Low-Spender,1603,5.18,50.0,38.57,61822.6,1928.0,38429.0,2.4
+🚨 At-Risk Premium,1353,60.01,9.75,84.6,114467.9,825.0,824306.0,51.1
